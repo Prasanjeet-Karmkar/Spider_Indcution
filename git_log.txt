@@ -1,0 +1,37 @@
+commit b5883d6f0c75a34bbcf9ffc294764fa81e9ceae5 (HEAD -> main, origin/main)
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:48:48 2023 +0530
+
+    Spider commited
+
+commit 0da19c376c31ded856dbd18c508d2cdb17edd246
+Merge: 378d8cb 64ed07c
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:33:26 2023 +0530
+
+    Merge branch 'Develop'
+    Changes done in Branch
+
+commit 64ed07cf30aaf0a89b207cb41399c3a849d4ed01
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:29:52 2023 +0530
+
+    Commit4
+
+commit 378d8cb080373106be79593958fb5f424ded9363
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:27:11 2023 +0530
+
+    Commit3
+
+commit 84c1cbe65546251c1d62339954cb6e39a6bcf562
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:25:00 2023 +0530
+
+    Commit2 in Develop
+
+commit a2b93b23f4b4e2bb31219e2a5255bfa008211c43
+Author: Prasanjeet-Karmkar <syndicate9120@gmail.com>
+Date:   Sat Jan 14 17:22:14 2023 +0530
+
+    Commit1 in master
